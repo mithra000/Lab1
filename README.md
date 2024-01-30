@@ -1,17 +1,20 @@
-# My Portfolio
+![Watch Now](./img/Design.jpg)
+# One page Portfolio Website (HTML CSS Project)
+**Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/ZFQkb26UD1Y**
 
-This is a basic portfolio website created using HTML, CSS, and a bit of JavaScript.
+---
 
-## Features
-- Simple one-page design
-- Project showcase
-- Contact information
+### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
 
-## How to Use
-1. Open `index.html` in a web browser.
+Like my works and want to support me?
 
-## Customization
-1. Edit `index.html` to update project details and personal information.
-2. Modify `style.css` for any desired styling changes.
-3. Adjust `app.js` for basic interactivity.
+<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
+
+---
+
+## Other projects
+
+📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
+  
+
 
